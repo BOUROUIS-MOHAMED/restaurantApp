@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483988993287",
+    "project_id": "dabbabi-service-ad1c8",
+    "storage_bucket": "dabbabi-service-ad1c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483988993287:android:db504ba5f2a6d10c47c1a2",
+        "android_client_info": {
+          "package_name": "com.BourouisMohamedAmine.dabbabi_service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483988993287-u426us74fn7ki79duhijpcmtlup7h9u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-dc--NRn61R31iVjBc3x6RYaP3kWkvwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483988993287-u426us74fn7ki79duhijpcmtlup7h9u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
